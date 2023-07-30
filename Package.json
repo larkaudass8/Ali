@@ -1,8 +1,8 @@
 {
-    "name": "ALIDOST-BOT",
+    "name": "ALIDOST",
     "version": "0.0.1",
     "description": "Facebook Messenger Bot .",
-    "main": "Ali.js",
+    "main": "Alidost.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
